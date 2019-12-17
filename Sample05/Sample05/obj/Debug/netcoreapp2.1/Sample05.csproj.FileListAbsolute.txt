@@ -1,0 +1,11 @@
+D:\KfzProject\Sample05\Sample05\bin\Debug\netcoreapp2.1\Sample05.deps.json
+D:\KfzProject\Sample05\Sample05\bin\Debug\netcoreapp2.1\Sample05.runtimeconfig.json
+D:\KfzProject\Sample05\Sample05\bin\Debug\netcoreapp2.1\Sample05.runtimeconfig.dev.json
+D:\KfzProject\Sample05\Sample05\bin\Debug\netcoreapp2.1\Sample05.dll
+D:\KfzProject\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.csprojAssemblyReference.cache
+D:\KfzProject\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.csproj.CoreCompileInputs.cache
+D:\KfzProject\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.AssemblyInfoInputs.cache
+D:\KfzProject\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.AssemblyInfo.cs
+D:\KfzProject\Sample05\Sample05\bin\Debug\netcoreapp2.1\Sample05.pdb
+D:\KfzProject\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.dll
+D:\KfzProject\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.pdb
